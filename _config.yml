@@ -1,0 +1,28 @@
+name: Home Buy Design
+favicon: null
+layout_spectrum: 0.7280246189329773
+typography_spectrum: 0.07820793031714857
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.1752329650335014
+  lightness: 0.034930694149807096
+  saturation: 0.27666073106229305
+  rhythmicContrast: 0.36501431884244084
+purpose: []
