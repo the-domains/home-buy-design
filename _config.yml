@@ -1,7 +1,7 @@
 name: Home Buy Design
 favicon: null
 layout_spectrum: 0.7280246189329773
-typography_spectrum: 0.07820793031714857
+typography_spectrum: 0.5924
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#303030'
     - '#535353'
   brandStrength: 0.375
-  lightness: 0.75
+  lightness: 0.375
   saturation: 0.3125
   rhythmicContrast: 0.5
 purpose: []
