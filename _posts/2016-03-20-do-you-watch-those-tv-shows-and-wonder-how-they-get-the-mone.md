@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-20T02:35:36.346Z'
-dateModified: '2016-03-20T02:35:25.256Z'
+datePublished: '2016-03-20T02:36:02.428Z'
+dateModified: '2016-03-20T02:36:02.160Z'
 title: "Do you watch those TV Shows and wonder how they get the money to do that or where they even begin?\_"
 author: []
 authors: []
