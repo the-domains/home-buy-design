@@ -7,8 +7,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-26T04:20:35.515Z'
-dateModified: '2016-03-26T04:13:21.524Z'
+datePublished: '2016-03-26T04:46:23.520Z'
+dateModified: '2016-03-26T04:26:03.597Z'
 title: "Do you watch those TV Shows and wonder how they get the money to do that or where they even begin?\_"
 author: []
 sourcePath: _posts/2016-03-20-do-you-watch-those-tv-shows-and-wonder-how-they-get-the-mone.md
@@ -23,7 +23,11 @@ _type: Blurb
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d4e6d3f4-c1e3-49f4-9c65-973a73b428b7.JPG)
+
+piece of trash Grid!!!!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/8e6a5587-7fa1-473d-bf81-b3930e0faa4a.jpg)
+
+you suck!!!!
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e98a57af-a57f-4333-9546-81a1c1e0cb8c.jpg)
 
 # Do you watch those TV Shows and wonder how they get the money to do that or where they even begin? 
