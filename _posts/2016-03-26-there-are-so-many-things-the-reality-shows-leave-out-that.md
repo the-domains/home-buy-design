@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: "There are so many things the \"Reality Shows\" leave out that you need to know. Don't worry, we'll guide you through the process, step by step.\_"
-datePublished: '2016-03-26T05:18:38.714Z'
-dateModified: '2016-03-26T05:17:55.051Z'
+datePublished: '2016-03-26T05:19:59.069Z'
+dateModified: '2016-03-26T05:18:46.557Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-26-there-are-so-many-things-the-reality-shows-leave-out-that.md
