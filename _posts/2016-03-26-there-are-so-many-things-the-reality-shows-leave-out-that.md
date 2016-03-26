@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: 'There are so many things the "Reality Shows" leave out that you need to know'
-datePublished: '2016-03-26T05:14:21.616Z'
-dateModified: '2016-03-26T05:12:11.792Z'
+description: "There are so many things the \"Reality Shows\" leave out that you need to know. Don't worry, we'll guide you through the process, step by step.\_"
+datePublished: '2016-03-26T05:18:38.714Z'
+dateModified: '2016-03-26T05:17:55.051Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-26-there-are-so-many-things-the-reality-shows-leave-out-that.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-26-there-are-so-many-things-the-reality-shows-leave-out-that.md
-published: true
 url: there-are-so-many-things-the-reality-shows-leave-out-that/index.html
 _type: Article
 
